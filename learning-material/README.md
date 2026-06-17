@@ -27,3 +27,4 @@ This folder contains study notes built from the Java Design Patterns repository.
 | Performance, Game, and Low-Level Optimization Patterns | [14-performance-game-and-low-level-optimization-patterns/README.md](14-performance-game-and-low-level-optimization-patterns/README.md) | [Data Locality](14-performance-game-and-low-level-optimization-patterns/data-locality.md) |
 | Language, JVM, and Idiom Patterns | [15-language-jvm-and-idiom-patterns/README.md](15-language-jvm-and-idiom-patterns/README.md) | [Dynamic Proxy](15-language-jvm-and-idiom-patterns/dynamic-proxy.md) |
 | Enterprise Application Patterns | [16-enterprise-application-patterns/README.md](16-enterprise-application-patterns/README.md) | [Data Transfer Object](16-enterprise-application-patterns/data-transfer-object.md) |
+| Optional Read | [optional-read/README.md](optional-read/README.md) | [Factory Kit](optional-read/README.md#1-factory-kit) |
